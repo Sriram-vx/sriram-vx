@@ -43,9 +43,9 @@ class SriRam:
         self.currently_learning = [
             "Machine Learning", "Deep Learning",
             "Data Structures & Algorithms",
-            "Advanced SQL"
+            
         ]
-        self.fun_fact = "I debug code faster with coffee ☕"
+        
 
     def motto(self):
         return "Build things that matter. Learn something every day."
@@ -63,7 +63,6 @@ print(me.motto())
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Databases**
@@ -151,7 +150,6 @@ print(me.motto())
 ```
  Machine Learning      →  Supervised & Unsupervised Algorithms, Scikit-learn
  Data Structures       →  Trees, Graphs, Dynamic Programming
- Advanced SQL          →  Stored Procedures, Indexing, Query Optimization
  Cloud Fundamentals    →  AWS 
 ```
 

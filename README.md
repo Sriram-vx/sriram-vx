@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Ram%20Rajendra%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20CS%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20%26%20Java%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sri+Ram+%F0%9F%91%8B;CS+Engineering+%7C+AI+Specialization;Python+%7C+;Building+AI-Driven+Solutions+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sri+Ram+%F0%9F%91%8B;CS+Engineering+%7C+AI+Specialization;Intrested+In+Building+AI-Driven+Solutions+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>

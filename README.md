@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -82,7 +82,7 @@ print(me.motto())
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-BF91F3?style=flat-square&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Sriram-vx">

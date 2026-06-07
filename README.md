@@ -43,15 +43,10 @@ class SriRam:
         self.currently_learning = [
             "Machine Learning", "Deep Learning",
             "Data Structures & Algorithms",
-            
         ]
-
-
-
+```
 
 <br clear="right"/>
-
-
 
 ---
 
@@ -77,9 +72,10 @@ class SriRam:
 
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=flat-square&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-BF91F3?style=flat-square&logoColor=white)
+
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Sriram-vx">
@@ -92,7 +88,7 @@ class SriRam:
 
 ---
 
-##  Streak Stats
+## Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sriram-vx&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -100,7 +96,7 @@ class SriRam:
 
 ---
 
-##  Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-vx&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
@@ -108,18 +104,18 @@ class SriRam:
 
 ---
 
-##  Projects
+## Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
-|:--------|:------|:-----------| 
+|:--------|:------|:-----------|
 
 </div>
 
 ---
 
-##  Education
+## Education
 
 <div align="center">
 
@@ -131,18 +127,19 @@ class SriRam:
 
 ---
 
-##  Certifications 
+## Certifications
 
 <div align="center">
 
- | Achievement | Details |
+| Achievement | Details |
 |:------------|:--------|
 | OOP Fundamentals in Python | Certified in core object-oriented programming concepts using Python |
+
 </div>
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
 ```
  Machine Learning      →  Supervised & Unsupervised Algorithms, Scikit-learn

@@ -17,7 +17,6 @@
 
 ## About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class SriRam:
@@ -50,7 +49,7 @@ class SriRam:
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 **Languages**
 
@@ -88,13 +87,6 @@ class SriRam:
 
 ---
 
-## Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sriram-vx&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
 
 ## Activity Graph
 

@@ -155,10 +155,4 @@ print(me.motto())
 
 ---
 
-<div align="center">
-  <i>"Build things that matter. Learn something every day."</i>
-  <br/><br/>
-  <b>Let's connect and build something great together! 🚀</b>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>

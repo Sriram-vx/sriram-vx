@@ -45,17 +45,8 @@ class SriRam:
             "Data Structures & Algorithms",
             
         ]
-        
-
-    def motto(self):
-        return "Build things that matter. Learn something every day."
-
-me = SriRam()
-print(me.motto())
-```
 
 <br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
